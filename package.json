@@ -1,0 +1,19 @@
+{
+  "name": "es-book-example",
+  "version": "0.0.1",
+  "description": "elasticsearch example",
+  "license": "MIT",
+  "main": "index.js",
+  "repository": {
+    "type": "git"
+  },
+  "scripts": {
+    "start": "./elasticsearch-2.3.4/bin/elasticsearch"
+  },
+  "dependencies": {
+
+  },
+  "devDependencies": {
+    "elasticsearch": "^11.0.1"
+  }
+}

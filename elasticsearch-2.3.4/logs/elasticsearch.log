@@ -1,0 +1,17 @@
+[2016-07-21 22:26:01,638][INFO ][node                     ] [Namorita] version[2.3.4], pid[10025], build[e455fd0/2016-06-30T11:24:31Z]
+[2016-07-21 22:26:01,638][INFO ][node                     ] [Namorita] initializing ...
+[2016-07-21 22:26:02,531][INFO ][plugins                  ] [Namorita] modules [reindex, lang-expression, lang-groovy], plugins [], sites []
+[2016-07-21 22:26:02,567][INFO ][env                      ] [Namorita] using [1] data paths, mounts [[/ (/dev/sda2)]], net usable_space [36.4gb], net total_space [131.3gb], spins? [no], types [ext4]
+[2016-07-21 22:26:02,567][INFO ][env                      ] [Namorita] heap size [990.7mb], compressed ordinary object pointers [true]
+[2016-07-21 22:26:05,813][INFO ][node                     ] [Namorita] initialized
+[2016-07-21 22:26:05,814][INFO ][node                     ] [Namorita] starting ...
+[2016-07-21 22:26:06,031][INFO ][transport                ] [Namorita] publish_address {127.0.0.1:9300}, bound_addresses {[::1]:9300}, {127.0.0.1:9300}
+[2016-07-21 22:26:06,040][INFO ][discovery                ] [Namorita] elasticsearch/FxyPLkPNRtS-CTtL-FgFnA
+[2016-07-21 22:26:09,121][INFO ][cluster.service          ] [Namorita] new_master {Namorita}{FxyPLkPNRtS-CTtL-FgFnA}{127.0.0.1}{127.0.0.1:9300}, reason: zen-disco-join(elected_as_master, [0] joins received)
+[2016-07-21 22:26:09,160][INFO ][http                     ] [Namorita] publish_address {127.0.0.1:9200}, bound_addresses {[::1]:9200}, {127.0.0.1:9200}
+[2016-07-21 22:26:09,161][INFO ][node                     ] [Namorita] started
+[2016-07-21 22:26:09,195][INFO ][gateway                  ] [Namorita] recovered [0] indices into cluster_state
+[2016-07-21 22:26:20,035][INFO ][node                     ] [Namorita] stopping ...
+[2016-07-21 22:26:20,063][INFO ][node                     ] [Namorita] stopped
+[2016-07-21 22:26:20,064][INFO ][node                     ] [Namorita] closing ...
+[2016-07-21 22:26:20,075][INFO ][node                     ] [Namorita] closed
