@@ -15,3 +15,40 @@
 [2016-07-21 22:26:20,063][INFO ][node                     ] [Namorita] stopped
 [2016-07-21 22:26:20,064][INFO ][node                     ] [Namorita] closing ...
 [2016-07-21 22:26:20,075][INFO ][node                     ] [Namorita] closed
+[2016-07-21 22:46:47,815][INFO ][node                     ] [Wicked] version[2.3.4], pid[11901], build[e455fd0/2016-06-30T11:24:31Z]
+[2016-07-21 22:46:47,816][INFO ][node                     ] [Wicked] initializing ...
+[2016-07-21 22:46:48,916][INFO ][plugins                  ] [Wicked] modules [reindex, lang-expression, lang-groovy], plugins [], sites []
+[2016-07-21 22:46:48,957][INFO ][env                      ] [Wicked] using [1] data paths, mounts [[/ (/dev/sda2)]], net usable_space [41.9gb], net total_space [131.3gb], spins? [no], types [ext4]
+[2016-07-21 22:46:48,958][INFO ][env                      ] [Wicked] heap size [990.7mb], compressed ordinary object pointers [true]
+[2016-07-21 22:46:52,843][INFO ][node                     ] [Wicked] initialized
+[2016-07-21 22:46:52,843][INFO ][node                     ] [Wicked] starting ...
+[2016-07-21 22:46:53,202][INFO ][transport                ] [Wicked] publish_address {127.0.0.1:9300}, bound_addresses {[::1]:9300}, {127.0.0.1:9300}
+[2016-07-21 22:46:53,218][INFO ][discovery                ] [Wicked] elasticsearch/NDpYBOVFQDaYnfV5Wf8myA
+[2016-07-21 22:46:56,368][INFO ][cluster.service          ] [Wicked] new_master {Wicked}{NDpYBOVFQDaYnfV5Wf8myA}{127.0.0.1}{127.0.0.1:9300}, reason: zen-disco-join(elected_as_master, [0] joins received)
+[2016-07-21 22:46:56,418][INFO ][http                     ] [Wicked] publish_address {127.0.0.1:9200}, bound_addresses {[::1]:9200}, {127.0.0.1:9200}
+[2016-07-21 22:46:56,419][INFO ][node                     ] [Wicked] started
+[2016-07-21 22:46:56,462][INFO ][gateway                  ] [Wicked] recovered [0] indices into cluster_state
+[2016-07-21 22:59:19,890][INFO ][node                     ] [Wicked] stopping ...
+[2016-07-21 22:59:19,913][INFO ][node                     ] [Wicked] stopped
+[2016-07-21 22:59:19,914][INFO ][node                     ] [Wicked] closing ...
+[2016-07-21 22:59:19,928][INFO ][node                     ] [Wicked] closed
+[2016-07-21 23:00:18,086][INFO ][node                     ] [Eon] version[2.3.4], pid[13022], build[e455fd0/2016-06-30T11:24:31Z]
+[2016-07-21 23:00:18,087][INFO ][node                     ] [Eon] initializing ...
+[2016-07-21 23:00:18,891][INFO ][plugins                  ] [Eon] modules [reindex, lang-expression, lang-groovy], plugins [], sites []
+[2016-07-21 23:00:18,922][INFO ][env                      ] [Eon] using [1] data paths, mounts [[/ (/dev/sda2)]], net usable_space [41.6gb], net total_space [131.3gb], spins? [no], types [ext4]
+[2016-07-21 23:00:18,922][INFO ][env                      ] [Eon] heap size [990.7mb], compressed ordinary object pointers [true]
+[2016-07-21 23:00:22,538][INFO ][node                     ] [Eon] initialized
+[2016-07-21 23:00:22,538][INFO ][node                     ] [Eon] starting ...
+[2016-07-21 23:00:22,664][INFO ][transport                ] [Eon] publish_address {127.0.0.1:9300}, bound_addresses {[::1]:9300}, {127.0.0.1:9300}
+[2016-07-21 23:00:22,673][INFO ][discovery                ] [Eon] elasticsearch/WZW1raB1TXKAbCNTZS1RBw
+[2016-07-21 23:00:25,764][INFO ][cluster.service          ] [Eon] new_master {Eon}{WZW1raB1TXKAbCNTZS1RBw}{127.0.0.1}{127.0.0.1:9300}, reason: zen-disco-join(elected_as_master, [0] joins received)
+[2016-07-21 23:00:25,804][INFO ][http                     ] [Eon] publish_address {127.0.0.1:9200}, bound_addresses {[::1]:9200}, {127.0.0.1:9200}
+[2016-07-21 23:00:25,805][INFO ][node                     ] [Eon] started
+[2016-07-21 23:00:25,826][INFO ][gateway                  ] [Eon] recovered [0] indices into cluster_state
+[2016-07-21 23:00:33,491][INFO ][cluster.metadata         ] [Eon] [.kibana] creating index, cause [api], templates [], shards [1]/[1], mappings [config]
+[2016-07-21 23:00:33,890][INFO ][cluster.routing.allocation] [Eon] Cluster health status changed from [RED] to [YELLOW] (reason: [shards started [[.kibana][0]] ...]).
+[2016-07-21 23:06:13,018][INFO ][cluster.metadata         ] [Eon] [.kibana] create_mapping [index-pattern]
+[2016-07-21 23:29:51,822][INFO ][node                     ] [Eon] stopping ...
+[2016-07-21 23:29:51,875][INFO ][node                     ] [Eon] stopped
+[2016-07-21 23:29:51,876][INFO ][node                     ] [Eon] closing ...
+[2016-07-21 23:29:51,888][INFO ][node                     ] [Eon] closed
