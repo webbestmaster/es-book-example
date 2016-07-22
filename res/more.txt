@@ -1,5 +1,7 @@
 install sense - ./bin/kibana plugin --install elastic/sense
 
+curl -XDELETE 'http://localhost:9200/<index_name>/'
+
 http://localhost:5601/app/sense - open sense
 
 

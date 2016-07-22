@@ -1,6 +1,6 @@
 {
-  "index": "megacorp_1",
-  "type": "employee_1",
+  "index": "megacorp",
+  "type": "employee",
   "list": [
     {
       "first_name": "John",
