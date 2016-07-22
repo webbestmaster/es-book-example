@@ -8,7 +8,7 @@
     "type": "git"
   },
   "scripts": {
-    "start": "./elasticsearch-2.3.4/bin/elasticsearch"
+    "start": "./run-me.sh"
   },
   "dependencies": {
 

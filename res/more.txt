@@ -1,3 +1,5 @@
+install sense - ./bin/kibana plugin --install elastic/sense
+
 http://localhost:5601/app/sense - open sense
 
 
