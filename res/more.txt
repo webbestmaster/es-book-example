@@ -1,3 +1,11 @@
+node js client - https://www.elastic.co/guide/en/elasticsearch/client/javascript-api/current/api-reference.html
+
+curl 'localhost:9200/_cat/indices?v'
+
+http://localhost:9200/_cluster/health
+
+./elasticsearch-2.3.4/bin/elasticsearch
+
 install sense - ./bin/kibana plugin --install elastic/sense
 
 curl -XDELETE 'http://localhost:9200/<index_name>/'
